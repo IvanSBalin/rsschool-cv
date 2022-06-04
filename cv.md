@@ -47,3 +47,14 @@ function solve(s){
 }
 ```
 ***
+### Experience:
+I have not any experience as a developer yet.
+***
+### Courses:
+1. QA Manual by Yandex.
+2. QA Automation for everyone in Java (free course)
+3. Internet History, Technology, and Security by coursera
+***
+### Languages:
+  * English - A1
+  * Russian - native
