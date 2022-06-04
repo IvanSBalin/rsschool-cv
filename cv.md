@@ -29,3 +29,21 @@ I believe that I  can change my life, and I will do that I like and live where I
   * VS Code, IntelliJ IDEA
   * Adobe Photoshop
 ***
+### Code example:
+*Fix string case KATA from CODEWARS: In this Kata, you will be given a string that may have mixed uppercase and lowercase letters and your task is to convert that string to either lowercase only or uppercase only based on:*
+  * make as few changes as possible.
+  * if the string contains equal number of uppercase and lowercase letters, convert the string to lowercase.
+```
+function solve(s){
+  let sum = 0;
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] == s[i].toUpperCase()) {
+      sum += 1;
+    } else {
+      sum -= 1;
+    }
+  }
+  return sum > 0 ? s.toUpperCase() : s.toLowerCase(); 
+}
+```
+***
