@@ -21,3 +21,11 @@ I am interested in web development because this profession worldwide in demand i
 
 I believe that I  can change my life, and I will do that I like and live where I want.
 ***
+### Skills and Proficiency:
+  * HTML5, CSS3
+  * JavaScript Basics, Java Basics
+  * Selenium Basics
+  * Git, GitHub
+  * VS Code, IntelliJ IDEA
+  * Adobe Photoshop
+***
