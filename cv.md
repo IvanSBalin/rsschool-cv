@@ -1,4 +1,3 @@
-# rsschool-cv
 # Ivan Balin
 ### Junior Frontend Developer
 ***
