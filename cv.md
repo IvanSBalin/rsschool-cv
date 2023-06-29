@@ -54,4 +54,4 @@ return sum > 0 ? s.toUpperCase() : s.toLowerCase();
 ***
 ### Languages
 * Russian - native
-* English - A2
+* English - B1
