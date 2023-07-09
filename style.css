@@ -22,13 +22,27 @@
 
 body {
     font-family: 'RobotoCondensed';
-    display: flex;
+     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 1200px;
+    margin: auto;
 }
 
 h3 {
     font-weight: 300;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
 }
 
 .header {
