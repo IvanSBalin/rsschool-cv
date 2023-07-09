@@ -22,7 +22,7 @@
 
 body {
     font-family: 'RobotoCondensed';
-     display: flex;
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
     width: 1200px;
@@ -45,6 +45,10 @@ a {
     text-decoration: none;
 }
 
+img {
+    width: 50px;
+}
+
 .header {
     border: 1px solid red;
     padding: 15px;
@@ -58,8 +62,11 @@ a {
 }
 
 .footer {
-    border: 1px solid red;
+    display: flex;
+    border-top: 1px solid rgb(129, 99, 99);
+    border-bottom: 1px solid rgb(129, 99, 99);;
     padding: 15px;
+    justify-content: center;
     margin-top: 5px;
 }
 
@@ -67,6 +74,21 @@ a {
     border: 1px solid red;
     padding: 15px;
     margin-top: 5px;
+}
+
+.container__github {   
+    padding: 1px;  
+}
+
+.container__rsschool {
+    border: 0px;
+    padding: 1px ;
+    margin-top: 5px;
+    margin: 15px;
+}
+
+.container__year {
+    padding: 1px; 
 }
 
 .nav-list {
